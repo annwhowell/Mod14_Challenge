@@ -67,9 +67,9 @@ Created a signal to buy when returns were up and sell when returns were down
 
 ![Cumulative Returns for SVM Classifier Model](Resources/cum_returns_svm_classifier.png)
 
-![Classification Report for Logistic Regression Classifier](Resources/classification_report_LR.png)
+![Classification Report for Logistic Regression Classifier](Resources/classificaton_report_LR.png)
 
-![Cumulative Returns for Logistic Regression Model](Resources/cum_reutrns_LR.png)
+![Cumulative Returns for Logistic Regression Model](Resources/cum_returns_LR.png)
 
 
 
